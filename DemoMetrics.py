@@ -6,7 +6,7 @@ import os
 from numpy import *
 
 ## THis file path is for a text file containing RR interval data recorded from bluetooth HRM
-f = "C:/Users/Spencer's/AppData/Local/Packages/Microsoft.SDKSamples.BluetoothGattHeartRate.JS_8wekyb3d8bbwe/LocalState/rrFile.txt"
+f = "C:/.........../rrFile.txt"
 
 # Reads text file data and stores it in an array
 def ReadData():
