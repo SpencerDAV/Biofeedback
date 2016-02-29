@@ -5,7 +5,7 @@ This project is a prototype biofeedback suite for the purposes of delivering rea
 
 Here are some screenshots of the Biofeedback Suite in action:
 ![alt text](HRV.png "Widget name infographic")
-![alt text](HRV2.png "Beats/Minute and Heart Rate Variability")
+![alt text](HRV1.png "Beats/Minute and Heart Rate Variability")
 ![alt text](HRV5.png "5 Metric feedback")
  
 
