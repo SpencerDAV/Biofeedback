@@ -4,4 +4,7 @@ This project is a prototype biofeedback suite for the purposes of delivering rea
 - Haptic feedback in the form of vibration alerts delivered using vibration motors controlled via Arduino
 
 ## KivyAppMain.py
-This file begins with the [Kivy](https://kivy.org/) style string that outlines the structure and appearance of the Kivy app. 
+This file begins with the [Kivy](https://kivy.org/) style string that outlines the structure and appearance of the Kivy app. The rest encodes the functionality of each widget. 
+
+## DemoMetrics.py
+The purpose of this file is to read in biosensor data and then analyze it to produce the desired metrics. Biosensor data is read from a txt file which can be produced in a variety of ways depending on your sensors. Our code for doing this is not present as we were forced to use a highly convoluted method due to issues with connecting to our bluetooth heart rate monitor. 
